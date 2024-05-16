@@ -4,7 +4,7 @@
 
 <h3 align="left">Состав команды</h3>
 - 🎩 Team Leader <a href="https://github.com/ERKYNIS">Глазунов Никита</a> (<a href="https://t.me/nekitbelkin">Telegram</a>) - Python, PHP, Flask, HTML, CSS (+-), Bootstrap, JavaScript (+-), C++ (+-), MySQL, SQLite
-<br>- 🖌 Ведущий дизайнер <a href="https://github.com/Landik48">Платов Даниил</a> (<a href="https://t.me/Landik_48">Telegram</a>) - Python, Django, HTML, CSS, JavaScript
+<br>- 🖌 Ведущий дизайнер <a href="https://github.com/Landik48">Платов Данил</a> (<a href="https://t.me/Landik_48">Telegram</a>) - Python, Django, HTML, CSS, JavaScript
 <br>- ⚙️ Ведущий Backend'ер <a href="https://github.com/Vovan4ikYT">Кузнецов Владимир</a> (<a href="https://t.me/ZoV4uK">Telegram</a>) - Python, Flask, HTML, Qt
 
 <h3 align="left">Наши проекты</h3>
