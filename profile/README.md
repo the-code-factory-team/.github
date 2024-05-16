@@ -2,6 +2,8 @@
 <h2 align="center">Мы - The Code Factory</h2>
 <h3 align="center">Команда кодеров из Липецка.</h3>
 
+<h3 align="center"><a href="https://the-code-factory-team.github.io/">Наш сайт</a></h3>
+
 <h3 align="left">Состав команды</h3>
 - 🎩 Team Leader <a href="https://github.com/ERKYNIS">Глазунов Никита</a> (<a href="https://t.me/nekitbelkin">Telegram</a>) - Python, PHP, Flask, HTML, CSS (+-), Bootstrap, JavaScript (+-), C++ (+-), MySQL, SQLite
 <br>- 🖌 Ведущий дизайнер <a href="https://github.com/Landik48">Платов Данил</a> (<a href="https://t.me/Landik_48">Telegram</a>) - Python, Django, HTML, CSS, JavaScript
