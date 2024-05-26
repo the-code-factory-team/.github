@@ -2,17 +2,17 @@
 <h2 align="center">Мы - The Code Factory</h2>
 <h3 align="center">Команда кодеров из Липецка.</h3>
 
-<h3 align="center"><a href="https://the-code-factory-team.github.io/">Наш сайт</a></h3>
-<h5 align="center"><a href="https://vk.com/club225982291">ВКонтакте</a> <a href="https://www.youtube.com/@the-code-factory-team">YouTube</a></h5>
+<h3 align="center"><a href="https://the-code-factory-team.github.io/">Наш сайт 🌍</a></h3>
+<h5 align="center"><a href="https://vk.com/club225982291">ВКонтакте 📰</a> | <a href="https://www.youtube.com/@the-code-factory-team">YouTube 🎥</a></h5>
 
 <h3 align="left">Состав команды</h3>
 - 🎩 Team Leader <a href="https://github.com/ERKYNIS">Глазунов Никита</a> (<a href="https://t.me/nekitbelkin">Telegram</a>) - Python, PHP, Flask, HTML, CSS (+-), Bootstrap, JavaScript (+-), C++ (+-), MySQL, SQLite
 <br>- 🖌 Ведущий дизайнер <a href="https://github.com/Landik48">Платов Данил</a> (<a href="https://t.me/Landik_48">Telegram</a>) - Python, Django, HTML, CSS, JavaScript
 <br>- ⚙️ Ведущий Backend'ер <a href="https://github.com/Vovan4ikYT">Кузнецов Владимир</a> (<a href="https://t.me/ZoV4uK">Telegram</a>) - Python, Flask, HTML, Qt
 
-<h3 align="left">Наши проекты</h3>
+<h3 align="left">Наши проекты и достижения</h3>
 - 🔮 Ожидаем результатов конкурса итоговых проектов <a href="https://github.com/the-code-factory-team/it-kon-2024">«ITКон» 2024</a>.
-<br>- 🔮 Ожидаем результатов игрохакатона <a href="https://github.com/the-code-factory-team/first-developer-ready-may-2024">«Первому разработчику приготовиться» (май 2024)</a>.
+<br>- 🥈 Заняли II место на игрохакатоне <a href="https://github.com/the-code-factory-team/first-developer-ready-may-2024">«Первому разработчику приготовиться» (май 2024)</a>.
 
 <h3 align="left">Языки, фреймворки и инструменты</h3>
 <p align="left">
