@@ -3,7 +3,7 @@
 <h3 align="center">Команда кодеров из Липецка.</h3>
 
 <h3 align="center"><a href="https://the-code-factory-team.github.io/">Наш сайт 🌍</a></h3>
-<h5 align="center"><a href="https://vk.com/club225982291">ВКонтакте 📰</a> | <a href="https://www.youtube.com/@the-code-factory-team">YouTube 🎥</a></h5>
+<h5 align="center"><a href="https://vk.com/club225982291">ВКонтакте 📰</a> | <a href="https://www.youtube.com/channel/UCTseFoYO92qk00bk5rWWUCw">YouTube 🎥</a></h5>
 
 <h3 align="left">Состав команды</h3>
 - 🎩 Team Leader <a href="https://github.com/ERKYNIS">Глазунов Никита</a> (<a href="https://t.me/nekitbelkin">Telegram</a>) - Python, PHP, Flask, HTML, CSS (+-), Bootstrap, JavaScript (+-), C++ (+-), MySQL, SQLite
