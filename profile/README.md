@@ -10,9 +10,16 @@
 <br>- 🖌 Ведущий дизайнер <a href="https://github.com/Landik48">Платов Данил</a> (<a href="https://t.me/Landik_48">Telegram</a> | <a href="https://vk.com/id754114134">ВКонтакте</a>) - Python, Django, HTML, CSS, JavaScript
 <br>- ⚙️ Ведущий Backend'ер <a href="https://github.com/Vovan4ikYT">Кузнецов Владимир</a> (<a href="https://t.me/ZoV4uK">Telegram</a> | <a href="https://vk.com/id515318242">ВКонтакте</a>) - Python, Flask, HTML, Qt
 
+<h3 align="left">Стажёрский состав команды</h3>
+- 👨‍💻 <a href="https://github.com/Tixell">Фурсов Тихон</a> (<a href="https://t.me/tixell">Telegram</a> | <a href="https://vk.com/id695850427">ВКонтакте</a>)
+<br>- 👨‍💻 <a href="https://github.com/">Ненахов Илья</a> (<a href="https://t.me/talentalle">Telegram</a> | <a href="https://vk.com/">ВКонтакте</a>)
+<br>- 👨‍💻 <a href="https://github.com/GoodGaMer0508">Тенихин Максим</a> (<a href="https://t.me/maxi853w">Telegram</a> | <a href="https://vk.com/id506036323">ВКонтакте</a>)
+
 <h3 align="left">Наши проекты и достижения</h3>
-- 🥉 Заняли III место на конкурсе итоговых проектов <a href="https://github.com/the-code-factory-team/it-kon-2024">«ITКон» 2024</a>.
+- 🔮 Стали участниками <a href="https://events.myrosmol.ru/forums/oblast-budushchego/">Всероссийского форума «Область будущего» (июль 2024)</a>.
+<br>- 🥉 Заняли III место на конкурсе итоговых проектов <a href="https://github.com/the-code-factory-team/it-kon-2024">«ITКон» 2024</a>.
 <br>- 🥈 Заняли II место на игрохакатоне <a href="https://github.com/the-code-factory-team/first-developer-ready-may-2024">«Первому разработчику приготовиться» (май 2024)</a>.
+<br>- 🔮 Стали участниками <a href="https://www.научим.online/programming-2024">Второго всероссийского чемпионата «Искусство кода» (апрель 2024)</a>.
 
 <h3 align="left">Языки, фреймворки и инструменты</h3>
 <p align="left">
