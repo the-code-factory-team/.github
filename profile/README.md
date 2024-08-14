@@ -11,9 +11,9 @@
 <br>- ⚙️ Ведущий Backend'ер <a href="https://github.com/Vovan4ikYT">Кузнецов Владимир</a> (<a href="https://t.me/ZoV4uK">Telegram</a> | <a href="https://vk.com/id515318242">ВКонтакте</a>) - Python, Flask, HTML, Qt
 
 <h3 align="left">Стажёрский состав команды</h3>
-- 👨‍💻 <a href="https://github.com/Tixell">Фурсов Тихон</a> (<a href="https://t.me/tixell">Telegram</a> | <a href="https://vk.com/id695850427">ВКонтакте</a>)
-<br>- 👨‍💻 <a href="https://github.com/">Ненахов Илья</a> (<a href="https://t.me/talentalle">Telegram</a> | <a href="https://vk.com/">ВКонтакте</a>)
-<br>- 👨‍💻 <a href="https://github.com/GoodGaMer0508">Тенихин Максим</a> (<a href="https://t.me/maxi853w">Telegram</a> | <a href="https://vk.com/id506036323">ВКонтакте</a>)
+- 🧑‍🎓 Стажёр <a href="https://github.com/Tixell">Фурсов Тихон</a> (<a href="https://t.me/tixell">Telegram</a> | <a href="https://vk.com/id695850427">ВКонтакте</a>)
+<br>- 🧑‍🎓 Стажёр <a href="https://github.com/Talentallee">Ненахов Илья</a> (<a href="https://t.me/talentalle">Telegram</a> | <a href="https://vk.com/id401583178">ВКонтакте</a>)
+<br>- 🧑‍🎓 Стажёр <a href="https://github.com/GoodGaMer0508">Тенихин Максим</a> (<a href="https://t.me/maxi853w">Telegram</a> | <a href="https://vk.com/id506036323">ВКонтакте</a>)
 
 <h3 align="left">Наши проекты и достижения</h3>
 - 🔮 Стали участниками <a href="https://events.myrosmol.ru/forums/oblast-budushchego/">Всероссийского форума «Область будущего» (июль 2024)</a>.
