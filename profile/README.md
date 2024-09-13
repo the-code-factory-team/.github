@@ -6,14 +6,12 @@
 <h5 align="center"><a href="https://t.me/+7OaFs7Oy0HMwOTUy">Telegram 📜</a> | <a href="https://vk.com/club225982291">ВКонтакте 📰</a> | <a href="https://www.youtube.com/channel/UCTseFoYO92qk00bk5rWWUCw">YouTube 🎥</a></h5>
 
 <h3 align="left">Состав команды</h3>
-- 🎩 Team Leader <a href="https://github.com/ERKYNIS">Глазунов Никита</a> (<a href="https://t.me/nekitbelkin">Telegram</a> | <a href="https://vk.com/id303563213">ВКонтакте</a>) - Python, PHP, Flask, HTML, CSS (+-), Bootstrap, JavaScript (+-), C++ (+-), MySQL, SQLite
-<br>- 🖌 Ведущий дизайнер <a href="https://github.com/Landik48">Платов Данил</a> (<a href="https://t.me/Landik_48">Telegram</a> | <a href="https://vk.com/id754114134">ВКонтакте</a>) - Python, Django, HTML, CSS, JavaScript
-<br>- ⚙️ Ведущий Backend'ер <a href="https://github.com/Vovan4ikYT">Кузнецов Владимир</a> (<a href="https://t.me/ZoV4uK">Telegram</a> | <a href="https://vk.com/id515318242">ВКонтакте</a>) - Python, Flask, HTML, Qt
-
-<h3 align="left">Стажёрский состав команды</h3>
-- 🧑‍🎓 Стажёр <a href="https://github.com/Tixell">Фурсов Тихон</a> (<a href="https://t.me/tixell">Telegram</a> | <a href="https://vk.com/id695850427">ВКонтакте</a>)
-<br>- 🧑‍🎓 Стажёр <a href="https://github.com/Talentallee">Ненахов Илья</a> (<a href="https://t.me/talentalle">Telegram</a> | <a href="https://vk.com/id401583178">ВКонтакте</a>)
-<br>- 🧑‍🎓 Стажёр <a href="https://github.com/GoodGaMer0508">Тенихин Максим</a> (<a href="https://t.me/maxi853w">Telegram</a> | <a href="https://vk.com/id506036323">ВКонтакте</a>)
+- 🎩 Team Leader <a href="https://github.com/ERKYNIS">Глазунов Никита</a> (<a href="https://t.me/nekitbelkin">Telegram</a> | <a href="https://vk.com/id303563213">ВКонтакте</a>)
+<br>- ☁️ Руководитель трека «WEB-технологии» <a href="https://github.com/Landik48">Платов Данил</a> (<a href="https://t.me/Landik_48">Telegram</a> | <a href="https://vk.com/id754114134">ВКонтакте</a>)
+<br>- ‍🤖 Руководитель трека «Искусственный интеллект» <a href="https://github.com/Tixell">Фурсов Тихон</a> (<a href="https://t.me/tixell">Telegram</a> | <a href="https://vk.com/id695850427">ВКонтакте</a>)
+<br>- 🎮 Руководитель трека «GameDev» <a href="https://github.com/Vovan4ikYT">Кузнецов Владимир</a> (<a href="https://t.me/ZoV4uK">Telegram</a> | <a href="https://vk.com/id515318242">ВКонтакте</a>)
+<br>- 👤 <a href="https://github.com/Talentallee">Ненахов Илья</a> (<a href="https://t.me/talentalle">Telegram</a> | <a href="https://vk.com/id401583178">ВКонтакте</a>)
+<br>- 👤 <a href="https://github.com/GoodGaMer0508">Тенихин Максим</a> (<a href="https://t.me/maxi853w">Telegram</a> | <a href="https://vk.com/id506036323">ВКонтакте</a>)
 
 <h3 align="left">Наши проекты и достижения</h3>
 - 🔮 Стали участниками <a href="https://events.myrosmol.ru/forums/oblast-budushchego/">Всероссийского форума «Область будущего» (июль 2024)</a>.
