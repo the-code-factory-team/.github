@@ -12,7 +12,7 @@
 <br>- 🎮 Руководитель трека «GameDev» <a href="https://github.com/Vovan4ikYT">Кузнецов Владимир</a> (<a href="https://t.me/ZoV4uK">Telegram</a> | <a href="https://vk.com/id515318242">ВКонтакте</a>)
 <br>- 👤 <a href="https://github.com/Talentallee">Ненахов Илья</a> (<a href="https://t.me/talentalle">Telegram</a> | <a href="https://vk.com/id401583178">ВКонтакте</a>)
 <br>- 👤 <a href="https://github.com/GoodGaMer0508">Тенихин Максим</a> (<a href="https://t.me/maxi853w">Telegram</a> | <a href="https://vk.com/id506036323">ВКонтакте</a>)
-<br>- 🧑‍🎓 Стажёр <a href="https://github.com/zethange">Максим Миронов</a> (<a href="https://t.me/zethange">Telegram</a> | <a href="https://vk.com/id553330943">ВКонтакте</a>)
+<br>- 🧑‍🎓 Стажёр <a href="https://github.com/zethange">Миронов Максим</a> (<a href="https://t.me/zethange">Telegram</a> | <a href="https://vk.com/id553330943">ВКонтакте</a>)
 
 <h3 align="left">Наши проекты и достижения</h3>
 - 🔮 Стали участниками <a href="https://proektforum.ru/">Всероссийского форума профессиональной ориентации «ПроеКТОриЯ» (сентябрь 2024)</a>.
