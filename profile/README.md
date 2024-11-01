@@ -11,10 +11,11 @@
 <br>- 🎮 Руководитель трека «GameDev» <a href="https://github.com/Vovan4ikYT">Кузнецов Владимир</a> (<a href="https://t.me/ZoV4uK">Telegram</a> | <a href="https://vk.com/id515318242">ВКонтакте</a>)
 <br>- 👤 <a href="https://github.com/Talentallee">Ненахов Илья</a> (<a href="https://t.me/talentalle">Telegram</a> | <a href="https://vk.com/id401583178">ВКонтакте</a>)
 <br>- 👤 <a href="https://github.com/GoodGaMer0508">Тенихин Максим</a> (<a href="https://t.me/maxi853w">Telegram</a> | <a href="https://vk.com/id506036323">ВКонтакте</a>)
-<br>- 🧑‍🎓 Стажёр <a href="https://github.com/zethange">Миронов Максим</a> (<a href="https://t.me/zethange">Telegram</a> | <a href="https://vk.com/id553330943">ВКонтакте</a>)
+<br>- 👤 <a href="https://github.com/zethange">Миронов Максим</a> (<a href="https://t.me/zethange">Telegram</a> | <a href="https://vk.com/id553330943">ВКонтакте</a>)
 
 <h3 align="left">Наши проекты и достижения</h3>
-- 🔮 Стали участниками <a href="https://proektforum.ru/">Всероссийского форума профессиональной ориентации «ПроеКТОриЯ» (сентябрь 2024)</a>.
+- 🤝 Присоединись к проекту <a href="https://vk.com/club227597789">«Я знаю, я хочу быть...» (октябрь 2024)</a>, для которого будем разрабатывать онлайн-платформу.
+<br>- 🔮 Стали участниками <a href="https://proektforum.ru/">Всероссийского форума профессиональной ориентации «ПроеКТОриЯ» (сентябрь 2024)</a>.
 <br>- 🔮 Стали участниками <a href="https://events.myrosmol.ru/forums/oblast-budushchego/">Всероссийского форума «Область будущего» (июль 2024)</a>.
 <br>- 🥉 Заняли III место на конкурсе итоговых проектов <a href="https://github.com/the-code-factory-team/it-kon-2024">«ITКон» 2024</a>.
 <br>- 🥈 Заняли II место на игрохакатоне <a href="https://github.com/the-code-factory-team/first-developer-ready-may-2024">«Первому разработчику приготовиться» (май 2024)</a>.
@@ -34,6 +35,7 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
