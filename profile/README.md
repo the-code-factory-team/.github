@@ -6,9 +6,9 @@
 <h5 align="center"><a href="https://t.me/+7OaFs7Oy0HMwOTUy">Telegram 📜</a> | <a href="https://vk.com/club225982291">ВКонтакте 📰</a></h5>
 
 <h3 align="left">Состав команды</h3>
-- 🎩 Team Leader <a href="https://github.com/ERKYNIS">Глазунов Никита</a> (<a href="https://t.me/nekitbelkin">Telegram</a> | <a href="https://vk.com/id303563213">ВКонтакте</a>)
-<br>- ☁️ Руководитель трека «WEB-технологии» <a href="https://github.com/Landik48">Платов Данил</a> (<a href="https://t.me/Landik_48">Telegram</a> | <a href="https://vk.com/id754114134">ВКонтакте</a>)
-<br>- 🎮 Руководитель трека «GameDev» <a href="https://github.com/Vovan4ikYT">Кузнецов Владимир</a> (<a href="https://t.me/ZoV4uK">Telegram</a> | <a href="https://vk.com/id515318242">ВКонтакте</a>)
+- 🎩 Team Leader <a href="https://github.com/ERKYNIS">Глазунов Никита</a> (<a href="https://nekitdev.ru">Сайт</a>)
+<br>- 👤 <a href="https://github.com/Landik48">Платов Данил</a> (<a href="https://t.me/Landik_48">Telegram</a> | <a href="https://vk.com/id754114134">ВКонтакте</a>)
+<br>- 👤 <a href="https://github.com/Vovan4ikYT">Кузнецов Владимир</a> (<a href="https://t.me/ZoV4uK">Telegram</a> | <a href="https://vk.com/id515318242">ВКонтакте</a>)
 <br>- 👤 <a href="https://github.com/GoodGaMer0508">Тенихин Максим</a> (<a href="https://t.me/maxi853w">Telegram</a> | <a href="https://vk.com/id506036323">ВКонтакте</a>)
 
 <h3 align="left">Наши проекты и достижения</h3>
