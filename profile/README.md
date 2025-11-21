@@ -1,17 +1,15 @@
 <h1 align="center">Добро пожаловать! 👋</h1> 
 <h2 align="center">Мы - The Code Factory</h2>
-<h3 align="center">Команда кодеров из Липецка. 👨‍💻</h3>
+<h3 align="center">Команда кодеров 👨‍💻</h3>
 
 <h3 align="center"><a href="https://the-code-factory-team.github.io/">Наш сайт 🌍</a></h3>
-<h5 align="center"><a href="https://t.me/+7OaFs7Oy0HMwOTUy">Telegram 📜</a> | <a href="https://vk.com/club225982291">ВКонтакте 📰</a> | <a href="https://www.youtube.com/channel/UCTseFoYO92qk00bk5rWWUCw">YouTube 🎥</a></h5>
+<h5 align="center"><a href="https://t.me/+7OaFs7Oy0HMwOTUy">Telegram 📜</a> | <a href="https://vk.com/club225982291">ВКонтакте 📰</a></h5>
 
 <h3 align="left">Состав команды</h3>
 - 🎩 Team Leader <a href="https://github.com/ERKYNIS">Глазунов Никита</a> (<a href="https://t.me/nekitbelkin">Telegram</a> | <a href="https://vk.com/id303563213">ВКонтакте</a>)
 <br>- ☁️ Руководитель трека «WEB-технологии» <a href="https://github.com/Landik48">Платов Данил</a> (<a href="https://t.me/Landik_48">Telegram</a> | <a href="https://vk.com/id754114134">ВКонтакте</a>)
 <br>- 🎮 Руководитель трека «GameDev» <a href="https://github.com/Vovan4ikYT">Кузнецов Владимир</a> (<a href="https://t.me/ZoV4uK">Telegram</a> | <a href="https://vk.com/id515318242">ВКонтакте</a>)
-<br>- 👤 <a href="https://github.com/Talentallee">Ненахов Илья</a> (<a href="https://t.me/talentalle">Telegram</a> | <a href="https://vk.com/id401583178">ВКонтакте</a>)
 <br>- 👤 <a href="https://github.com/GoodGaMer0508">Тенихин Максим</a> (<a href="https://t.me/maxi853w">Telegram</a> | <a href="https://vk.com/id506036323">ВКонтакте</a>)
-<br>- 👤 <a href="https://github.com/zethange">Миронов Максим</a> (<a href="https://t.me/zethange">Telegram</a> | <a href="https://vk.com/id553330943">ВКонтакте</a>)
 
 <h3 align="left">Наши проекты и достижения</h3>
 - 🥈 Заняли II место на <a href="https://vk.com/wall-225982291_43">Открытом конкурсе программирования «Нам с IT по пути» (декабрь 2024)</a>.
